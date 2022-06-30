@@ -5,12 +5,14 @@
 
 ### Draggable Tiles
 <br>
+
 <ul>
   <li>The game generates 7 Scrabble tiles that are draggable and can be placed on the board if placed on a valid spot.</li>
 </ul>
 
 ### Droppable Board Squares
 <br>
+
 <ul>
   <li>The board consists of 15 squares (4 special) that can accept tiles and centers then if they receive any.</li>
 </ul>
@@ -20,6 +22,7 @@
 
 ##### Bonus squares have special classes that allow the program to recognize them and boost the score accordingly.
 <br>
+
 <ul>
   <li>Double Word: Doubles the score of the entire word</li>
   <li>Double Letter: Doubles the score of the individual tile on that block</li>
@@ -27,6 +30,7 @@
 
 ### Score Keeping
 <br>
+
 <ul>
   <li>Each tile is scored by the number on it and is modified dependent on its square.</li>
   <li>Every time submit word is pressed the score and word reset allowing a new words score to be tracked.</li>
@@ -35,6 +39,7 @@
 
 ### Rule Keeping
 <br>
+
 <ul>
   <li>Tiles after the first one can only be placed in adjacent boardf squares</li>
   <li>Tiles cannot move after placement</li>
@@ -45,6 +50,7 @@
 
 ### Submitting a word
 <br>
+
 <ul>
   <li>All tiles on the board are removed</li>
   <li>The necessary tiles to reach 7 total on the rack is retrieved</li>
@@ -53,6 +59,7 @@
 
 ### Restarting
 <br>
+
 <ul>
   <li>All tiles on the board are removed</li>
   <li>All tiles on the rack are removed</li>

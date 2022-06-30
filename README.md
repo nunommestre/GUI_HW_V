@@ -1,5 +1,8 @@
 # GUI_HW_V
 
+[Github Repository](https://github.com/nunommestre/GUI_HW_V)
+[Github Page](https://nunommestre.github.io/GUI_HW_V/)
+
 ## Features (ALL FULLY FUNCTIONING)
 
 

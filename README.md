@@ -1,27 +1,32 @@
 # GUI_HW_V
 
 ## Features (ALL FULLY FUNCTIONING)
-<br>
+
+---
 
 ### Draggable Tiles
-<br>
+
+---
 
 <ul>
   <li>The game generates 7 Scrabble tiles that are draggable and can be placed on the board if placed on a valid spot.</li>
 </ul>
 
 ### Droppable Board Squares
-<br>
+
+---
 
 <ul>
   <li>The board consists of 15 squares (4 special) that can accept tiles and centers then if they receive any.</li>
 </ul>
 
 ### Bonus Squares
-<br>
+
+---
 
 ##### Bonus squares have special classes that allow the program to recognize them and boost the score accordingly.
-<br>
+
+---
 
 <ul>
   <li>Double Word: Doubles the score of the entire word</li>
@@ -29,7 +34,8 @@
 </ul>
 
 ### Score Keeping
-<br>
+
+---
 
 <ul>
   <li>Each tile is scored by the number on it and is modified dependent on its square.</li>
@@ -38,7 +44,8 @@
 </ul>
 
 ### Rule Keeping
-<br>
+
+---
 
 <ul>
   <li>Tiles after the first one can only be placed in adjacent boardf squares</li>
@@ -49,7 +56,8 @@
 </ul>
 
 ### Submitting a word
-<br>
+
+---
 
 <ul>
   <li>All tiles on the board are removed</li>
@@ -58,7 +66,8 @@
 </ul>
 
 ### Restarting
-<br>
+
+---
 
 <ul>
   <li>All tiles on the board are removed</li>

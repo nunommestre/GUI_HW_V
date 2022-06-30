@@ -1,0 +1,59 @@
+/* File: styles.css
+GUI Assignment: Scrabble (HW5)
+Nuno Mestre, UMass Lowell Computer Science, nuno_mestre@student.uml.edu
+June 29, 2022
+Description: My styling for the website */
+/* Sources 
+ CSS 
+ https://www.geeksforgeeks.org/how-to-auto-resize-an-image-to-fit-a-div-container-using-css/#:~:text=To%20auto-resize%20an%20image%20or%20a%20video%20to,image%20or%20video%20resize%20and%20fit%20the%20container.
+https://www.w3schools.com/csSref/tryit.asp?filename=trycss3_background-size2 */
+body {
+  background: url(../Images/Background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  /* background-color: aliceblue; */
+}
+.info {
+  margin: 0 auto;
+  width: 50%;
+  background: url(../Images/info.jpg) no-repeat center center;
+  background-size: cover;
+  margin-top: 200px;
+  font-weight: bold;
+  color: rgb(56, 74, 175);
+}
+.game {
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+}
+.board {
+  background-color: black;
+  background-size: 90%;
+  margin-left: 10%;
+  width: 100%;
+}
+.imagesss {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+#tile_holder {
+  margin: 0 auto;
+  width: 55%;
+  object-fit: contain;
+  margin-top: 5%;
+  background: url(../Images/tile_holder.png) no-repeat;
+  background-size: 90%;
+}
+.tiles {
+  width: 8%;
+  height: 8%;
+  margin: 0 5px;
+}
+.tile_drop {
+  display: inline-block;
+  height: 5%;
+  width: 5%;
+  margin: 10px 0 10px 8px;
+}

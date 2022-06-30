@@ -2,15 +2,15 @@
 
 ## Features (ALL FULLY FUNCTIONING)
 <br>
-#### Draggable Tiles
+### Draggable Tiles
 <br>
-#### Droppable Board Squares
+### Droppable Board Squares
 <br>
-#### Bonus Squares
+### Bonus Squares
 <br>
-#### Score Keeping
+### Score Keeping
 <br>
-#### Rule Keeping
+### Rule Keeping
 <br>
-#### Restarting
+### Restarting
 <br>

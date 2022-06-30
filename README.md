@@ -73,5 +73,5 @@
   <li>All tiles on the board are removed</li>
   <li>All tiles on the rack are removed</li>
   <li>A fresh set of tiles is given to the user</li>
-  <li>Total score, Word score, Word, and Tile counters are reset/li>
+  <li>Total score, Word score, Word, and Tile counters are reset</li>
 </ul>

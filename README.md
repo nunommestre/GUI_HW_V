@@ -2,7 +2,6 @@
 
 ## Features (ALL FULLY FUNCTIONING)
 
----
 
 ### Draggable Tiles
 
@@ -25,8 +24,6 @@
 ---
 
 ##### Bonus squares have special classes that allow the program to recognize them and boost the score accordingly.
-
----
 
 <ul>
   <li>Double Word: Doubles the score of the entire word</li>
